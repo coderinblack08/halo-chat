@@ -1,4 +1,4 @@
-# Halo-Chat
+# 🍿 Halo-Chat
 
 🗣 A basic chat application created with websockets and vue-cdn!
 
